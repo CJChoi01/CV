@@ -1,2 +1,0 @@
-# CV
-Create CV website
